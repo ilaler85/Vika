@@ -1,0 +1,14 @@
+D:\OC\OC_4lab\OC_4lab\bin\Debug\OC_4lab.exe.config
+D:\OC\OC_4lab\OC_4lab\bin\Debug\OC_4lab.exe
+D:\OC\OC_4lab\OC_4lab\bin\Debug\OC_4lab.pdb
+D:\OC\OC_4lab\OC_4lab\obj\Debug\OC_4lab.csprojAssemblyReference.cache
+D:\OC\OC_4lab\OC_4lab\obj\Debug\OC_4lab.csproj.CoreCompileInputs.cache
+D:\OC\OC_4lab\OC_4lab\obj\Debug\OC_4lab.exe
+D:\OC\OC_4lab\OC_4lab\obj\Debug\OC_4lab.pdb
+C:\Users\ivano\Downloads\OC_4lab\OC_4lab\bin\Debug\OC_4lab.exe.config
+C:\Users\ivano\Downloads\OC_4lab\OC_4lab\bin\Debug\OC_4lab.exe
+C:\Users\ivano\Downloads\OC_4lab\OC_4lab\bin\Debug\OC_4lab.pdb
+C:\Users\ivano\Downloads\OC_4lab\OC_4lab\obj\Debug\OC_4lab.csprojAssemblyReference.cache
+C:\Users\ivano\Downloads\OC_4lab\OC_4lab\obj\Debug\OC_4lab.csproj.CoreCompileInputs.cache
+C:\Users\ivano\Downloads\OC_4lab\OC_4lab\obj\Debug\OC_4lab.exe
+C:\Users\ivano\Downloads\OC_4lab\OC_4lab\obj\Debug\OC_4lab.pdb
